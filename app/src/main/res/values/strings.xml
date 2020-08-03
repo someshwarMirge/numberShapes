@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">numberShapes</string>
+    <string name="healine">Number Shapes</string>
+    <string name="text1">Lets check a number is Triangular or Square.</string>
+    <string name="editText">Enter Number</string>
+    <string name="buttonText">CHECK</string>
+    <string name="result">___</string>
+</resources>
